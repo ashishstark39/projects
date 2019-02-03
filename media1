@@ -1,0 +1,256 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>ASSIGNMENT1</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+.main
+{
+margin-left:auto;
+margin-right:auto;
+width:950px;
+}
+body
+{
+background-color:#4A525F;
+}
+.black{
+background-color:#3C3C3C;
+color:#FD6965;
+border:30px solid #BFBFBF;
+padding:20px;
+text-align:center;
+font-size:28px;
+margin-top:20px;
+}
+
+.text1{
+color:white;
+word-break:break-all;
+text-align:justify;
+font-size:25px;
+margin-top:20px;}
+
+.orange1{
+background-color:#F15928;
+color:white;
+border:30px solid #2A7980;
+padding:20px;
+text-align:center;
+font-size:23px;
+margin-top:20px;
+width:37%;
+display:inline-block;
+}
+
+
+.orange2{
+background-color:#F15928;
+color:white;
+border:30px solid #2A7980;
+padding:20px;
+text-align:center;
+font-size:23px;
+margin-top:20px;
+width:37%;
+display:inline-block;
+margin-left:40px;	
+}
+.parent2{
+margin-top:20px;
+font-size:20px;
+}
+.text2
+{
+color:white;
+text-align:justify;
+display:inline-block;
+width:47%;
+line-height:35px;
+}
+.text3
+{
+color:white;
+text-align:justify;
+display:inline-block;
+width:47%;
+margin-left:45px;
+line-height:35px;
+}
+.image{
+margin-top:10px;
+margin-bottom:5px;
+}
+
+@media screen and (max-width: 900px)
+{
+.main
+{
+margin-left:auto;
+margin-right:auto;
+width:100%;
+}
+.black{
+background-color:#3C3C3C;
+color:#FD6965;
+border:30px solid #BFBFBF;
+padding:20px;
+text-align:center;
+font-size:90%;
+margin-top:20px;
+}
+.parent
+{
+width:100%;
+}
+.orange1{
+background-color:#F15928;
+color:white;
+border:20px solid #2A7980;
+padding:10px;
+text-align:center;
+font-size:90%;
+margin-top:20px;
+width:37%;
+float:left;
+display:block;
+}
+
+
+.orange2{
+background-color:#F15928;
+color:white;
+border:20px solid #2A7980;
+padding:10px;
+text-align:center;
+font-size:90%;
+margin-top:20px;
+width:37%;
+display:inline-block;
+float:left;
+margin-left:10%	;	
+}
+.image
+{
+width:100%;
+}
+.text2
+{
+
+width:44%;
+line-height:100%;
+}
+.text3
+{
+width:44%;
+margin-left:10%;
+line-height:100%;
+}
+}
+
+
+@media screen and (max-width: 376px)
+{
+.main
+{
+margin-left:auto;
+margin-right:auto;
+width:100%;
+}
+.black{
+background-color:#3C3C3C;
+color:#FD6965;
+border:30px solid #BFBFBF;
+padding:20px;
+text-align:center;
+font-size:70%;
+margin-top:20px;
+}
+.parent
+{
+width:100%;
+}
+.orange1{
+background-color:#F15928;
+color:white;
+border:20px solid #2A7980;
+padding:10px;
+text-align:center;
+font-size:70%;
+margin-top:20px;
+width:37%;
+float:left;
+display:block;
+}
+
+
+.orange2{
+background-color:#F15928;
+color:white;
+border:20px solid #2A7980;
+padding:10px;
+text-align:center;
+font-size:90%;
+margin-top:20px;
+width:37%;
+display:inline-block;
+float:left;
+	
+}
+.image
+{
+width:50px;
+}
+.text2
+{
+
+width:44%;
+line-height:100%;
+}
+.text3
+{
+width:44%;
+margin-left:10%;
+line-height:100%;
+}
+}
+
+
+
+</style>
+</head>
+<body>
+<div class="main">
+	<div class="black">LOREM IPSUM IS SIMPLY DUMMY TEXT OF THE PRINTING AND<br>TYPESETTING INDUSTRY
+
+	</div>
+	
+	<div class="parent">
+		<div class="orange1	">
+		
+		<div>HELLO !!</div>
+		<div class="image"><img src="image.png" height="150px" width="170px"></img> </div>
+		</div>
+		<div class="orange2">
+		<div>WORLD !!</div>
+		<div class="image"><img src="image.png" height="150px" width="170px"></img> </div>
+		</div>
+	</div>
+	<div class="parent2">
+		<div class="text2">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make type specimen book.
+		</div>
+		<div class="text3">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make type specimen book.
+		</div>
+		
+	</div>
+	
+	
+	
+	
+</div>
+
+</body>
+
+</html>
