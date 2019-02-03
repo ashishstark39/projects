@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ASSIGNMENT24</title>
+<style>
+.main
+{
+margin-left:auto;
+margin-right:auto;
+width:800px;
+}
+body
+{
+background-color:#3498DB;
+}
+.hello
+{
+background-color:white;
+border:5px solid #E74C3C;
+font-size:30px;
+padding:10px 10px 10px 10px;
+text-align:center;
+margin-bottom:20px;
+}
+.grid1
+{
+display: grid;
+
+grid-template-columns: 34% 63%;
+
+grid-gap: 25px;
+
+}
+.image
+{
+
+}
+
+.text
+{
+
+
+color: white;
+
+font-size: 16px;
+
+text-align: justify;
+
+word-break: break-all;
+
+margin-bottom: 15px;
+}
+.button
+{
+background-color: #CD0C0C;
+
+padding: 10px 10px 10px 10px;
+
+width: 70px;
+
+border-radius: 5px;
+
+box-shadow: 0px 2px black;
+
+color: white;
+}
+.first
+{
+display:grid;
+grid-template-columns:auto auto auto auto;
+grid-gap:20px;
+margin-bottom:20px;
+width:500px;
+margin-left:auto;
+margin-right:auto;
+background-color:#2772A4;
+padding: 10px;
+}
+.tab
+{color:white;
+background-color:#CD0C0C;
+padding:10px;
+text-align:center;
+border-radius:5px;
+box-shadow:0px 2px black;
+}
+</style>
+</head>
+<body>
+
+<div class="main">
+	<div class="first">
+	<div class="tab">HOME</div>
+	<div class="tab">ABOUT</div>
+	<div class="tab">PRODUCT</div>
+	<div class="tab">CONTACT</div>
+	
+	</div>
+	<div class="hello">HELLO WORLD !!!</div>
+	<div class="grid1">
+		<div class="image"><img src="image.png" width="270px"></div>
+		<div class="text&button">
+			<div class="text">SEMIOTICS GODARD HASHTAG SRIRACHA. B-BIT SQUID ACTUALLY, TAXIDERMY KITSCH PUT A BIRD ON IT BUTCHER PALED FLANNEL NORMCORE FOUR LOKO. TUMBLR DEEP V ART PARTY SCHUTZ SUSTAINABLE VINYL TATTOOED SKATEBOARD, BANKS`, MIXTAPETHUNDERCATS. VINYL DRINKING VINEGAR BITTERS, BRUNCH HIGH LIFE CHIA MCSWEENEY'S. TRY-HARD MAY ORGANIC, BANH MI PBFWB ROOF PARTY BRUNCH . GLUTEN-FREE MLKSHK FOOD TRUCK HEIRLOOM HIGH LIFE YOU PROBABLY HAVENT HEARD OF THEM OF THEM. </div>
+			<div class="button">BUTTON</div>
+		</div>
+	</div>
+	<br><br>
+	<div class="grid1">
+		<div class="image"><img src="image.png" width="270px"></div>
+		<div class="text&button">
+			<div class="text">SEMIOTICS GODARD HASHTAG SRIRACHA. B-BIT SQUID ACTUALLY, TAXIDERMY KITSCH PUT A BIRD ON IT BUTCHER PALED FLANNEL NORMCORE FOUR LOKO. TUMBLR DEEP V ART PARTY SCHUTZ SUSTAINABLE VINYL TATTOOED SKATEBOARD, BANKS`, MIXTAPETHUNDERCATS. VINYL DRINKING VINEGAR BITTERS, BRUNCH HIGH LIFE CHIA MCSWEENEY'S. TRY-HARD MAY ORGANIC, BANH MI PBFWB ROOF PARTY BRUNCH . GLUTEN-FREE MLKSHK FOOD TRUCK HEIRLOOM HIGH LIFE YOU PROBABLY HAVENT HEARD OF THEM OF THEM. </div>
+			<div class="button">BUTTON</div>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>
