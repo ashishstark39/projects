@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script> 
+$(document).ready(function(){
+  $(".s").click(function(){
+    $(".d").fadeToggle("fast");
+    $(".d4").hide();
+    $(".d1").hide();
+    $(".d2").hide();
+    $(".d3").hide();
+  });
+    $(".s1").click(function(){
+    $(".d1").fadeToggle("fast");
+    $(".d").hide();
+    $(".d4").hide();
+    $(".d2").hide();
+    $(".d3").hide();
+  });
+    $(".s2").click(function(){
+    $(".d2").fadeToggle("fast");
+    $(".d").hide();
+    $(".d1").hide();
+    $(".d4").hide();
+    $(".d3").hide();
+  });
+      $(".s3").click(function(){
+    $(".d3").fadeToggle("fast");
+    $(".d").hide();
+    $(".d1").hide();
+    $(".d2").hide();
+    $(".d4").hide();
+  });
+      $(".s4").click(function(){
+    $(".d4").fadeToggle("fast");
+    $(".d").hide();
+    $(".d1").hide();
+    $(".d2").hide();
+    $(".d3").hide();
+  });
+});
+</script>
+<style> 
+body
+{
+background-color:#fcd6ff;}
+.main
+{
+width:500px;
+}
+.d, .s {
+  padding: 5px;
+  text-align: center;
+  background-color: #ff7c7c;
+  border: 3px solid  red;
+}
+
+.d {
+  padding: 30px;
+  display: none;
+}
+.d2, .s2 {
+  padding: 5px;
+  text-align: center;
+  background-color: #5881f4;
+  border: 3px solid  #012487;
+}
+
+.d2 {
+  padding: 30px;
+  display: none;
+}
+.d1, .s1 {
+  padding: 5px;
+  text-align: center;
+  background-color: #99ff9c;
+  border:3px solid  #016804;
+}
+
+.d1 {
+  padding: 30px;
+  display: none;
+}
+.d3, .s3 {
+  padding: 5px;
+  text-align: center;
+  background-color: #fffdaf;
+  border:3px solid  #6d6a01;
+}
+
+.d3 {
+  padding: 30px;
+  display: none;
+}
+.d4, .s4 {
+  padding: 5px;
+  text-align: center;
+  background-color: #6df2ff;
+  border:3px solid  #016d77;
+ 
+}
+
+.d4 {
+  padding: 30px;
+  display: none;
+}
+
+</style>
+</head>
+<body>
+ <div class="main">
+<div class="s">SELECT 1</div>
+	<div class="d">SEMIOTICS GODARD HASHTAG SRIRACHA. B-BIT SQUclass ACTUALLY, TAXclassERMY KITSCH PUT A BIRD ON IT BUTCHER.</div>
+	<div class="s1">SELECT 2</div>
+	<div class="d1">SEMIOTICS GODARD HASHTAG SRIRACHA. B-BIT SQUclass ACTUALLY, TAXclassERMY KITSCH PUT A BIRD ON IT BUTCHER.</div>
+	<div class="s2">SELECT 3</div>
+	<div class="d2">SEMIOTICS GODARD HASHTAG SRIRACHA. B-BIT SQUclass ACTUALLY, TAXclassERMY KITSCH PUT A BIRD ON IT BUTCHER.</div>
+	<div class="s3">SELECT 4</div>
+	<div class="d3">SEMIOTICS GODARD HASHTAG SRIRACHA. B-BIT SQUclass ACTUALLY, TAXclassERMY KITSCH PUT A BIRD ON IT BUTCHER.</div>
+	<div class="s4">SELECT 5</div>
+	<div class="d4">SEMIOTICS GODARD HASHTAG SRIRACHA. B-BIT SQUclass ACTUALLY, TAXclassERMY KITSCH PUT A BIRD ON IT BUTCHER.</div>
+</div>
+</body>
+</html>
