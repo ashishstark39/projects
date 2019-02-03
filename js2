@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script> 
+$(document).ready(function(){
+    $(".d").hide();
+    $(".d4").hide();
+    $(".d1").hide();
+    $(".d2").hide();
+    $(".d3").hide();
+
+  $(".s").click(function(){
+    $(".d").fadeToggle("slow");
+    $(".d4").hide();
+    $(".d1").hide();
+    $(".d2").hide();
+    $(".d3").hide();
+  });
+    $(".s1").click(function(){
+    $(".d1").fadeToggle("slow");
+    $(".d").hide();
+    $(".d4").hide();
+    $(".d2").hide();
+    $(".d3").hide();
+  });
+    $(".s2").click(function(){
+    $(".d2").fadeToggle("slow");
+    $(".d").hide();
+    $(".d1").hide();
+    $(".d4").hide();
+    $(".d3").hide();
+  });
+      $(".s3").click(function(){
+    $(".d3").fadeToggle("slow");
+    $(".d").hide();
+    $(".d1").hide();
+    $(".d2").hide();
+    $(".d4").hide();
+  });
+      $(".s4").click(function(){
+    $(".d4").fadeToggle("slow");
+    $(".d").hide();
+    $(".d1").hide();
+    $(".d2").hide();
+    $(".d3").hide();
+  });
+});
+</script>
+<style> 
+.d, .s {
+  padding: 5px;
+  text-align: center;
+  background-color: #ff7c7c;
+  border: 3px solid  red;
+  display:inline-block;
+}
+
+.d {
+  width:800px;
+  display:inline-block;
+}
+.d2, .s2 {
+  padding: 5px;
+  text-align: center;
+  background-color: #5881f4;
+  border: 3px solid  #012487;
+  display:inline-block;
+}
+
+.d2 {
+ width:800px;
+  display:inline-block;
+}
+.d1, .s1 {
+  padding: 5px;
+  text-align: center;
+  background-color: #99ff9c;
+  border:3px solid  #016804;
+  display:inline-block;
+}
+
+.d1 {
+  width:800px;
+  display:inline-block;
+}
+.d3, .s3 {
+  padding: 5px;
+  text-align: center;
+  background-color: #fffdaf;
+  border:3px solid  #6d6a01;
+  display:inline-block;
+}
+
+.d3 {
+  width:800px;
+  display:inline-block;
+}
+.d4, .s4 {
+  padding: 5px;
+  text-align: center;
+  background-color: #6df2ff;
+  border:3px solid  #016d77;
+  display:inline-block;
+}
+
+.d4 {
+  width:800px;
+  display:inline-block;
+}
+
+</style>
+</head>
+<body>
+ 
+<div class="s">SELECT 1</div>
+<div class="d">SEMIOTICS GODARD HASHTAG SRIRACHA. B-BIT SQUclass ACTUALLY, TAXclassERMY KITSCH.</div><br>
+<div class="s1">SELECT 2</div>
+<div class="d1">SEMIOTICS GODARD HASHTAG SRIRACHA. B-BIT SQUclass ACTUALLY, TAXclassERMY KITSCH.</div><br>
+<div class="s2">SELECT 3</div>
+<div class="d2">SEMIOTICS GODARD HASHTAG SRIRACHA. B-BIT SQUclass ACTUALLY, TAXclassERMY KITSCH.</div><br>
+<div class="s3">SELECT 4</div>
+<div class="d3">SEMIOTICS GODARD HASHTAG SRIRACHA. B-BIT SQUclass ACTUALLY, TAXclassERMY KITSCH.</div><br>
+<div class="s4">SELECT 5</div>
+<div class="d4">SEMIOTICS GODARD HASHTAG SRIRACHA. B-BIT SQUclass ACTUALLY, TAXclassERMY KITSCH.</div>
+
+</body>
+</html>
