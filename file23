@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ASSIGNMENT1</title>
+<style>
+body
+{
+background-color:#16A085;
+}
+.main
+{
+width: 800px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+padding: 30px;	
+}
+.parent1
+{
+background-color: #F1C40F;
+border: 10px solid #E74C3C;
+padding: 25px;
+margin-bottom:20px;
+}
+.text1{
+text-align: center;
+font-size: 21px;
+margin-bottom: 20px;
+
+
+
+}
+.button1
+{
+border: 5px solid #E74C3C;
+background-color: #F1C40F;
+width: 104px;
+font-size: 25px;
+color: #E74C3C;
+padding: 8px 15px 8px 15px;
+margin-left: auto;
+margin-right: auto;
+}
+.parent2{
+display: grid;
+
+grid-template-columns: 30% 68%;
+
+grid-gap: 15px;
+}
+.box1
+{
+background-color: #3498DB;
+
+border: 10px solid #E74C3C;
+
+padding: 15px;
+}
+
+.second
+{
+display: grid;
+
+grid-template-columns: auto;
+
+grid-gap: 10px;
+}
+.box2
+{
+display: grid;
+
+grid-template-columns: 31% 64%;
+
+grid-gap: 30px;
+
+background-color: #3498DB;
+
+border: 10px solid #E74C3C;
+
+padding: 10px;
+
+}
+.text2
+{
+color: white;
+
+text-align: justify;
+
+word-break: break-all;
+
+line-height: 20px;
+
+font-size: 13px;
+}
+.text3
+{
+color: white;
+
+display: inline-block;
+
+text-align: justify;
+
+word-break: break-all;
+
+font-size: 15px;
+}
+.image2
+{
+display:
+}
+.button2
+{
+border: 3px solid white;
+
+background-color: #3498DB;
+
+width: 70px;
+
+font-size: 15px;
+
+color: white;
+
+padding: 5px 5px 5px 5px;
+
+text-align: center;
+
+}
+</style>
+</head>
+<body>
+<div class="main">
+	<div class="parent1">
+		<div class="text1">SEMIOTICS GODARD HASHTAG SRIRACHA. 8-BIT SQUID ACTUALLY, TAXIDERMY KITSCH PUT A BIRD ON IT BUTCHER PALE</div>
+		<div class="button1">BUTTON</div>
+	</div>
+	
+	<div class="parent2">
+		<div class="box1">
+			<img src="image.png" height="150px"><br><br>
+			<div class="text2">SEMIOTICS GODARD HASHTAG SRIRACHA. 8-BIT SQUID ACTU-ALLY, TAXIDERMY KUSCH PUT A BIRD ON IT BUTCHER PALED FLANNEL NORMCORE FOUR LOKO. TUMBLR DEEP V ART PARTY scruz SUSTAINABLE VINYL TATTOOED.</div>
+		</div>
+		
+		<div class="second">
+			<div class="box2">
+				<div class="image1"><img src="image.png" height="140px"></div>
+				<div class="subp1">
+					<div class="text3">SEMIOTICS GODARD HASHTAG SRIRACHA. 8-BIT SQUID ACTUALLY, TAXIDERMY KITSCH PUT A BIRD ON ITBUTCHER PALED FLANNEL NORMCORE FOUR LOKO. TUMBLR DEEP V ART PARTY SCHLITZ SUSTAINABLE VINYL TATT.
+					</div><br>
+					<div class="button2">BUTTON</div>
+				</div>
+			</div>
+			<div class="box2">
+				<div class="image1"><img src="image.png" height="140px"></div>
+				<div class="subp1">
+					<div class="text3">SEMIOTICS GODARD HASHTAG SRIRACHA. 8-BIT SQUID ACTUALLY, TAXIDERMY KITSCH PUT A BIRD ON ITBUTCHER PALED FLANNEL NORMCORE FOUR LOKO. TUMBLR DEEP V ART PARTY SCHLITZ SUSTAINABLE VINYL TATT.
+					</div><br>
+					<div class="button2">BUTTON</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+</div>
+
+
+
+</body>
+
+</html>
