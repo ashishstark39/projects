@@ -1,0 +1,78 @@
+
+            body
+            {
+                background-color: aquamarine;
+            }
+           .main
+           {
+               background-color: aliceblue;
+               border-radius: 10px;
+               border: 3px solid rgb(0, 225, 255);
+               margin: auto;
+               margin-top: 10%;
+               width: 30%;
+               padding:5%;
+               text-align: center;
+           }  
+           .inp
+           {
+            width: 200px;
+            box-sizing: border-box;
+            font-size: 16px;
+            background-color: white;
+            border-radius: 6px;
+            transition: width 0.5s ease-in-out;
+            
+           }   
+           .inp:focus
+           {
+            width: 60%;
+            border: 2px solid rgb(255, 67, 67);
+            border-radius: 6px;
+            
+           }
+           .button 
+           {
+                
+                    color: white;
+                    padding: 6px 22px;
+                    text-align: center;
+                    text-decoration: none;
+                    display: inline-block;
+                    font-size: 16px;
+                    margin: 4px 2px;
+                    transition-duration: 0.4s;
+                    cursor: pointer;
+            }
+            .button1 {
+                background-color: white; 
+                color: black; 
+                border: 2px solid #4CAF50;
+                }
+
+                .button1:hover {
+                background-color: #4CAF50;
+                color: white;
+                }
+            .head
+            {
+                position: fixed;
+                top:0px;
+                left:0px;
+                padding:1%;
+                width:100%;
+                height:10%;
+                background-color: rgb(0, 114, 221);
+                color: white;
+                font-size:250%;
+                text-align: center;
+                
+            }
+
+            p
+            {
+                color: red;
+                font-size:70%;
+                display: inline-block;
+            }
+      

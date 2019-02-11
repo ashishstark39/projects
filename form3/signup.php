@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+            <link rel="stylesheet" type="text/css" href="style/style.css">
+            <script src="js/signupscript.js"></script>
+            <?php
+            error_reporting(E_ALL);
+            ini_set('display_errors',true);
+            ?>
+</head>
+<body>
+    <div class="head">SIGN-UP</div>
+    <div class="main">
+    <form action="data.php" id="form2" name="form2" onsubmit="return validate();" method="post" enctype="multipart/form-data">
+                Name: &nbsp&nbsp&emsp;&emsp;<input class="inp"  type="text" name="fname" required><p class="n">*enter valid name</p>
+                <br><br>
+                E-mail:&nbsp&emsp;&emsp; <input  class="inp" type="email" id="femail" name="femail" required><p class="e">*enter valid email</p>
+                <br><br>
+                Userid:&nbsp &emsp;&emsp;<input  class="inp" type="text" name="fuserid" required ><p class="u">*enter valid userid</p>
+                <br><br>
+                Password:&emsp;<input  class="inp" type="password" name="fpassword" required ><p class="p">*enter valid password</p>
+                <br><br>
+                <input type="file" name="pimage" id="pimage" > <p class="i">*select an image</p>
+                <br><br><input class="but2" type="submit" name="submit" value="Submit"><br><br>
+                <a href="login.php">Already a user?</a>
+    </form>
+    </div>
+</body>
+</html>

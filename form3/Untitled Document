@@ -1,0 +1,25 @@
+$profile=$_FILES["image"]["name"];
+
+
+    $sql="INSERT INTO userdetails(name1,username,email,passw,profile_img)
+    VALUES('$name12','$user','$email','$pass','$profile')";
+
+     $sql="SELECT name1,username,email,profile_img FROM userdetails WHERE passw='$password' AND username='$username'";
+
+
+      if($output->num_rows>0)
+              {
+               $data=$output->fetch_assoc();
+               
+                $USERNAME=$data["name1"];
+                $USERID=$data["username"];
+                $EMAIL=$data["email"];
+                $PROFILE=$data["profile_img"];
+              }
+
+              <div class="image">
+               <img src="images/<?php echo $PROFILE ?>" alt="image"/>
+              </div>
+
+echo "<script type='text/javascript'>alert('signup sucessful');</script>";
+
