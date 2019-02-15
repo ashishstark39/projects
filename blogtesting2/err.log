@@ -1,0 +1,189 @@
+[08-Feb-2019 13:56:03 Asia/Calcutta] PHP Warning:  preg_match(): No ending delimiter '^' found in /home/users/ashish.lohiya/www/html/php/form/data.php on line 36
+[08-Feb-2019 13:56:30 Asia/Calcutta] PHP Warning:  preg_match(): No ending delimiter '^' found in /home/users/ashish.lohiya/www/html/php/form/data.php on line 36
+[08-Feb-2019 14:00:19 Asia/Calcutta] PHP Warning:  preg_match(): No ending delimiter '^' found in /home/users/ashish.lohiya/www/html/php/form/data.php on line 36
+[08-Feb-2019 14:00:21 Asia/Calcutta] PHP Warning:  preg_match(): No ending delimiter '^' found in /home/users/ashish.lohiya/www/html/php/form/data.php on line 36
+[08-Feb-2019 16:39:51 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form/data.php on line 53
+[08-Feb-2019 16:39:51 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form/data.php on line 54
+[08-Feb-2019 16:41:27 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form/data.php on line 53
+[08-Feb-2019 16:41:27 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form/data.php on line 54
+[08-Feb-2019 16:47:00 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form/data.php on line 53
+[08-Feb-2019 16:47:00 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form/data.php on line 54
+[08-Feb-2019 16:47:27 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form/data.php on line 53
+[08-Feb-2019 16:47:27 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form/data.php on line 54
+[08-Feb-2019 16:59:43 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form/data.php on line 53
+[08-Feb-2019 16:59:43 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form/data.php on line 54
+[08-Feb-2019 18:10:16 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form/data.php on line 53
+[08-Feb-2019 18:10:16 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form/data.php on line 54
+[08-Feb-2019 18:27:07 Asia/Calcutta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'roo'@'localhost' (using password: YES) in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 14
+[08-Feb-2019 18:29:20 Asia/Calcutta] PHP Notice:  Undefined variable: posted in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 21
+[08-Feb-2019 18:29:20 Asia/Calcutta] PHP Notice:  Undefined variable: posted in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 22
+[08-Feb-2019 18:32:23 Asia/Calcutta] PHP Notice:  Undefined variable: con in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 24
+[08-Feb-2019 18:32:23 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 24
+[08-Feb-2019 18:32:23 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 25
+[08-Feb-2019 18:33:24 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 25
+[08-Feb-2019 18:35:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/users/ashish.lohiya/www/html/php/form/loginaction.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 23
+[08-Feb-2019 18:36:33 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 23
+[08-Feb-2019 18:36:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/users/ashish.lohiya/www/html/php/form/loginaction.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 25
+[08-Feb-2019 18:37:28 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 23
+[08-Feb-2019 18:37:28 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/users/ashish.lohiya/www/html/php/form/loginaction.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 25
+[08-Feb-2019 18:49:16 Asia/Calcutta] PHP Notice:  Undefined variable: con in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 16
+[08-Feb-2019 18:49:16 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 16
+[08-Feb-2019 18:49:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 17
+[08-Feb-2019 18:50:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 16
+[08-Feb-2019 19:02:42 Asia/Calcutta] PHP Notice:  Undefined variable: con in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 16
+[08-Feb-2019 19:02:42 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 16
+[08-Feb-2019 19:02:42 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 17
+[08-Feb-2019 19:02:58 Asia/Calcutta] PHP Notice:  Undefined variable: con in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 16
+[08-Feb-2019 19:02:58 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 16
+[08-Feb-2019 19:02:58 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 17
+[08-Feb-2019 19:03:11 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 17
+[08-Feb-2019 19:04:56 Asia/Calcutta] PHP Notice:  Undefined variable: echo in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 16
+[08-Feb-2019 19:04:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/users/ashish.lohiya/www/html/php/form/loginaction.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 16
+[08-Feb-2019 19:07:08 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 19
+[08-Feb-2019 19:07:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 17
+[08-Feb-2019 19:29:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 17
+[08-Feb-2019 19:44:10 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 16
+[08-Feb-2019 19:48:38 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 22
+[08-Feb-2019 19:52:52 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 22
+[08-Feb-2019 19:52:55 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 22
+[08-Feb-2019 19:55:27 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 22
+[08-Feb-2019 19:55:29 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 22
+[08-Feb-2019 19:55:42 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 22
+[08-Feb-2019 19:56:16 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 22
+[08-Feb-2019 20:00:40 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 18
+[08-Feb-2019 20:22:22 Asia/Calcutta] PHP Notice:  Undefined variable: db in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 17
+[08-Feb-2019 20:22:22 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 17
+[08-Feb-2019 20:22:22 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 18
+[08-Feb-2019 20:22:22 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 21
+[08-Feb-2019 20:22:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 18
+[08-Feb-2019 20:22:34 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 21
+[08-Feb-2019 20:29:07 Asia/Calcutta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 12
+[08-Feb-2019 20:29:07 Asia/Calcutta] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 18
+[08-Feb-2019 20:29:07 Asia/Calcutta] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 19
+[08-Feb-2019 20:29:07 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 22
+[08-Feb-2019 20:29:07 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 23
+[08-Feb-2019 20:29:07 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 26
+[08-Feb-2019 20:29:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 23
+[08-Feb-2019 20:29:18 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 26
+[08-Feb-2019 20:30:58 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 23
+[08-Feb-2019 20:30:58 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 26
+[08-Feb-2019 20:31:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 23
+[08-Feb-2019 20:31:16 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 25
+[08-Feb-2019 20:31:32 Asia/Calcutta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 12
+[08-Feb-2019 20:31:32 Asia/Calcutta] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 18
+[08-Feb-2019 20:31:32 Asia/Calcutta] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 19
+[08-Feb-2019 20:31:32 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 22
+[08-Feb-2019 20:31:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 23
+[08-Feb-2019 20:31:32 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 25
+[08-Feb-2019 20:31:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 23
+[08-Feb-2019 20:31:40 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/users/ashish.lohiya/www/html/php/form/loginaction.php on line 25
+[08-Feb-2019 21:47:23 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form/data.php on line 53
+[08-Feb-2019 21:47:23 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form/data.php on line 54
+[08-Feb-2019 21:49:16 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form/data.php on line 53
+[08-Feb-2019 21:49:16 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form/data.php on line 54
+[10-Feb-2019 17:11:48 Europe/Berlin] PHP Notice:  Undefined variable: conn in C:\xampp\htdocs\form\data.php on line 79
+
+
+
+[11-Feb-2019 09:29:39 Asia/Calcutta] PHP Notice:  Undefined index: tname in /home/users/ashish.lohiya/www/html/php/form2/data.php on line 55
+[11-Feb-2019 09:29:39 Asia/Calcutta] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/users/ashish.lohiya/www/html/php/form2/data.php on line 55
+[11-Feb-2019 09:29:55 Asia/Calcutta] PHP Notice:  Undefined index: tname in /home/users/ashish.lohiya/www/html/php/form2/data.php on line 55
+[11-Feb-2019 09:29:55 Asia/Calcutta] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/users/ashish.lohiya/www/html/php/form2/data.php on line 55
+[11-Feb-2019 09:34:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/users/ashish.lohiya/www/html/php/form2/data.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/users/ashish.lohiya/www/html/php/form2/data.php on line 61
+[11-Feb-2019 15:51:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/users/ashish.lohiya/www/html/php/form2/data.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/users/ashish.lohiya/www/html/php/form2/data.php on line 62
+[11-Feb-2019 16:48:01 Asia/Calcutta] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/users/ashish.lohiya/www/html/php/form3/data.php on line 59
+[11-Feb-2019 16:48:01 Asia/Calcutta] PHP Warning:  mysqli_query(): Error reading result set's header in /home/users/ashish.lohiya/www/html/php/form3/data.php on line 59
+[11-Feb-2019 17:30:16 Asia/Calcutta] PHP Notice:  Undefined index: pimage in /home/users/ashish.lohiya/www/html/php/form3/data.php on line 24
+[11-Feb-2019 17:30:40 Asia/Calcutta] PHP Notice:  Undefined index: pimage in /home/users/ashish.lohiya/www/html/php/form3/data.php on line 24
+[11-Feb-2019 17:31:05 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form3/data.php on line 24
+[11-Feb-2019 17:34:07 Asia/Calcutta] PHP Notice:  Undefined index: image in /home/users/ashish.lohiya/www/html/php/form3/data.php on line 24
+[11-Feb-2019 17:38:50 Asia/Calcutta] PHP Notice:  Undefined index: pimage in /home/users/ashish.lohiya/www/html/php/form3/data.php on line 24
+[11-Feb-2019 17:39:56 Asia/Calcutta] PHP Notice:  Undefined index: pimage in /home/users/ashish.lohiya/www/html/php/form3/data.php on line 59
+[13-Feb-2019 13:37:55 Asia/Calcutta] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home/users/ashish.lohiya/www/html/php/blog/form/data.php on line 29
+[13-Feb-2019 13:40:07 Asia/Calcutta] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home/users/ashish.lohiya/www/html/php/blog/form/data.php on line 29
+[13-Feb-2019 13:41:45 Asia/Calcutta] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home/users/ashish.lohiya/www/html/php/blog/form/data.php on line 29
+[13-Feb-2019 13:42:31 Asia/Calcutta] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home/users/ashish.lohiya/www/html/php/blog/form/data.php on line 29
+[13-Feb-2019 13:43:29 Asia/Calcutta] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home/users/ashish.lohiya/www/html/php/blog/form/data.php on line 29
+[13-Feb-2019 13:44:01 Asia/Calcutta] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home/users/ashish.lohiya/www/html/php/blog/form/data.php on line 29
+[13-Feb-2019 14:21:19 Asia/Calcutta] PHP Notice:  Use of undefined constant blogtext - assumed 'blogtext' in /home/users/ashish.lohiya/www/html/php/blog/form/blogsave.php on line 30
+[13-Feb-2019 14:21:33 Asia/Calcutta] PHP Notice:  Use of undefined constant blogtext - assumed 'blogtext' in /home/users/ashish.lohiya/www/html/php/blog/form/blogsave.php on line 30
+[13-Feb-2019 14:23:00 Asia/Calcutta] PHP Notice:  Undefined index: fname in /home/users/ashish.lohiya/www/html/php/blog/form/blogsave.php on line 30
+[13-Feb-2019 16:54:08 Asia/Calcutta] PHP Notice:  Undefined index: blogtxt in /home/users/ashish.lohiya/www/html/php/blog/form/blogsave.php on line 24
+[13-Feb-2019 16:54:08 Asia/Calcutta] PHP Notice:  Use of undefined constant textdb - assumed 'textdb' in /home/users/ashish.lohiya/www/html/php/blog/form/blogsave.php on line 45
+[13-Feb-2019 16:54:08 Asia/Calcutta] PHP Notice:  Undefined index: textdb in /home/users/ashish.lohiya/www/html/php/blog/form/blogsave.php on line 45
+[13-Feb-2019 16:55:33 Asia/Calcutta] PHP Notice:  Use of undefined constant blogtext - assumed 'blogtext' in /home/users/ashish.lohiya/www/html/php/blog/form/blogsave.php on line 45
+[13-Feb-2019 16:56:32 Asia/Calcutta] PHP Notice:  Use of undefined constant blogtext - assumed 'blogtext' in /home/users/ashish.lohiya/www/html/php/blog/form/blogsave.php on line 45
+[13-Feb-2019 19:20:05 Asia/Calcutta] PHP Notice:  Undefined index: cate in /home/users/ashish.lohiya/www/html/php/blog/form/blogsave.php on line 39
+[13-Feb-2019 22:58:07 Asia/Calcutta] PHP Notice:  Undefined index: cate in /home/users/ashish.lohiya/www/html/php/blog/form/blogsave.php on line 37
+[14-Feb-2019 00:51:23 Asia/Calcutta] PHP Notice:  Undefined index: cate in /home/users/ashish.lohiya/www/html/php/blog/form/blogsave.php on line 40
+[14-Feb-2019 00:52:07 Asia/Calcutta] PHP Notice:  Undefined index: cate in /home/users/ashish.lohiya/www/html/php/blog/form/blogsave.php on line 40
+[15-Feb-2019 13:56:49 Asia/Calcutta] PHP Notice:  Undefined index: fpassword in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 54
+[15-Feb-2019 14:00:01 Asia/Calcutta] PHP Notice:  Undefined index: uname in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 70
+[15-Feb-2019 14:00:01 Asia/Calcutta] PHP Notice:  Undefined index: uemail in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 70
+[15-Feb-2019 14:46:25 Asia/Calcutta] PHP Notice:  Undefined index: uname in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 70
+[15-Feb-2019 14:46:25 Asia/Calcutta] PHP Notice:  Undefined index: uemail in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 70
+[15-Feb-2019 14:52:47 Asia/Calcutta] PHP Notice:  Undefined index: uemail  in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 28
+[15-Feb-2019 14:52:47 Asia/Calcutta] PHP Notice:  Undefined index: fname in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 29
+[15-Feb-2019 14:52:59 Asia/Calcutta] PHP Notice:  Undefined index: fname in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 29
+[15-Feb-2019 15:31:46 Asia/Calcutta] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 57
+[15-Feb-2019 15:31:46 Asia/Calcutta] PHP Notice:  Undefined variable: _SESSION in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 70
+[15-Feb-2019 15:31:46 Asia/Calcutta] PHP Notice:  Use of undefined constant namedb - assumed 'namedb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 72
+[15-Feb-2019 15:31:46 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 72
+[15-Feb-2019 15:31:46 Asia/Calcutta] PHP Notice:  Use of undefined constant emaildb - assumed 'emaildb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 73
+[15-Feb-2019 15:31:46 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 73
+[15-Feb-2019 15:31:46 Asia/Calcutta] PHP Notice:  Use of undefined constant useriddb - assumed 'useriddb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 74
+[15-Feb-2019 15:31:46 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 74
+[15-Feb-2019 15:32:36 Asia/Calcutta] PHP Notice:  Use of undefined constant namedb - assumed 'namedb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 72
+[15-Feb-2019 15:32:36 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 72
+[15-Feb-2019 15:32:36 Asia/Calcutta] PHP Notice:  Use of undefined constant emaildb - assumed 'emaildb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 73
+[15-Feb-2019 15:32:36 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 73
+[15-Feb-2019 15:32:36 Asia/Calcutta] PHP Notice:  Use of undefined constant useriddb - assumed 'useriddb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 74
+[15-Feb-2019 15:32:36 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 74
+[15-Feb-2019 15:34:14 Asia/Calcutta] PHP Notice:  Undefined variable: _SESSION in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 70
+[15-Feb-2019 15:34:14 Asia/Calcutta] PHP Notice:  Use of undefined constant namedb - assumed 'namedb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 72
+[15-Feb-2019 15:34:14 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 72
+[15-Feb-2019 15:34:14 Asia/Calcutta] PHP Notice:  Use of undefined constant emaildb - assumed 'emaildb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 73
+[15-Feb-2019 15:34:14 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 73
+[15-Feb-2019 15:34:14 Asia/Calcutta] PHP Notice:  Use of undefined constant useriddb - assumed 'useriddb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 74
+[15-Feb-2019 15:34:14 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 74
+[15-Feb-2019 15:35:22 Asia/Calcutta] PHP Notice:  Use of undefined constant namedb - assumed 'namedb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 72
+[15-Feb-2019 15:35:22 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 72
+[15-Feb-2019 15:35:22 Asia/Calcutta] PHP Notice:  Use of undefined constant emaildb - assumed 'emaildb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 73
+[15-Feb-2019 15:35:22 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 73
+[15-Feb-2019 15:35:22 Asia/Calcutta] PHP Notice:  Use of undefined constant useriddb - assumed 'useriddb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 74
+[15-Feb-2019 15:35:22 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 74
+[15-Feb-2019 15:36:18 Asia/Calcutta] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 57
+[15-Feb-2019 15:36:18 Asia/Calcutta] PHP Notice:  Use of undefined constant namedb - assumed 'namedb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 72
+[15-Feb-2019 15:36:18 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 72
+[15-Feb-2019 15:36:18 Asia/Calcutta] PHP Notice:  Use of undefined constant emaildb - assumed 'emaildb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 73
+[15-Feb-2019 15:36:18 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 73
+[15-Feb-2019 15:36:18 Asia/Calcutta] PHP Notice:  Use of undefined constant useriddb - assumed 'useriddb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 74
+[15-Feb-2019 15:36:18 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 74
+[15-Feb-2019 15:38:39 Asia/Calcutta] PHP Notice:  Use of undefined constant namedb - assumed 'namedb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 82
+[15-Feb-2019 15:38:39 Asia/Calcutta] PHP Notice:  Use of undefined constant emaildb - assumed 'emaildb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 83
+[15-Feb-2019 15:38:39 Asia/Calcutta] PHP Notice:  Use of undefined constant useriddb - assumed 'useriddb' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 84
+[15-Feb-2019 16:18:05 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 91
+[15-Feb-2019 16:18:44 Asia/Calcutta] PHP Notice:  Undefined variable: row in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 91
+[15-Feb-2019 16:29:55 Asia/Calcutta] PHP Notice:  Use of undefined constant login_id - assumed 'login_id' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 27
+[15-Feb-2019 16:37:17 Asia/Calcutta] PHP Notice:  Use of undefined constant uname - assumed 'uname' in /home/users/ashish.lohiya/www/html/php/blogtesting2/updatedata.php on line 29
+[15-Feb-2019 16:59:32 Asia/Calcutta] PHP Notice:  Undefined index: uname in /home/users/ashish.lohiya/www/html/php/blogtesting2/delete.php on line 29
+[15-Feb-2019 17:01:39 Asia/Calcutta] PHP Notice:  Undefined index: uname in /home/users/ashish.lohiya/www/html/php/blogtesting2/delete.php on line 29
+[15-Feb-2019 17:04:16 Asia/Calcutta] PHP Notice:  Undefined index: login_id in /home/users/ashish.lohiya/www/html/php/blogtesting2/delete.php on line 27
